@@ -1,4 +1,4 @@
-# 🍕 Bonnyrigg Pizza Blog
+# 🍕 Bonnyrigg Pizza Blog 
 
 A secure Flask-based pizza recipe blog application with comprehensive security features including Two-Factor Authentication (2FA), CSRF protection, and brute force attack prevention.
 
