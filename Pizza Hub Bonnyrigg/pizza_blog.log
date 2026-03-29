@@ -1,0 +1,18 @@
+2026-03-28 15:25:14,986 - __main__ - INFO - Database initialized successfully
+2026-03-28 15:25:15,013 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-28 15:25:15,013 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-28 15:25:15,013 - werkzeug - INFO -  * Restarting with stat
+2026-03-28 15:25:15,093 - __main__ - INFO - Database initialized successfully
+2026-03-28 15:25:15,107 - werkzeug - WARNING -  * Debugger is active!
+2026-03-28 15:25:15,112 - werkzeug - INFO -  * Debugger PIN: 538-238-630
+2026-03-28 15:25:18,582 - __main__ - ERROR - Error loading index: no such column: created_at
+2026-03-28 15:25:18,598 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "GET / HTTP/1.1" 200 -
+2026-03-28 15:25:18,624 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/bbq_chicken.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,625 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/margherita.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,626 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/hawaiian.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,628 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/veggie.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,627 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/background.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,627 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/pepperoni.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,629 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/meat_lovers.png HTTP/1.1[0m" 304 -
+2026-03-28 15:25:18,629 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
