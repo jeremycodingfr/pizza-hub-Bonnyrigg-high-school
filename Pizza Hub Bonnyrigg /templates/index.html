@@ -3,3 +3,4 @@
 <main class="container"><section class="hero"><div style="flex:1"><h1>Pizza recipes, community-made</h1><p style="color:var(--muted)">Explore recipes, share your pizza, and join the Bonnyrigg pizza community.</p></div><div><img src="{{ url_for('static', filename='uploads/margherita.png') }}" style="width:300px;border-radius:10px"></div></section>
 <section style="margin-top:22px"><h2>Latest pizzas</h2><div class="grid">{% for p in posts %}<article class="card"><img src="{{ url_for('static', filename=p['image_path']) }}" alt="{{ p['title'] }}"><h3>{{ p['title'] }}</h3><p style="color:var(--muted);font-size:13px">by {{ p['author'] }}</p><p>{{ p['content'] }}</p><p style="margin-top:10px"><a class="btn-primary" href="{{ url_for('post_view', post_id=p['id']) }}">View</a></p></article>{% endfor %}</div></section>
 <footer class="footer">Bonnyrigg Pizza Blog © 2025</footer></main></body></html>
+
