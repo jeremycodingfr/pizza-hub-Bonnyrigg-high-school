@@ -6,15 +6,6 @@ A secure Flask-based pizza recipe blog application with comprehensive security f
 - [Features](#features)
 - [Security Features](#security-features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Security Testing](#security-testing)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
