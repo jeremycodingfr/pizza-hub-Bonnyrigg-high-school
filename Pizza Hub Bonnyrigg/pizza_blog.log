@@ -16,3 +16,4 @@
 2026-03-28 15:25:18,627 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/pepperoni.png HTTP/1.1[0m" 304 -
 2026-03-28 15:25:18,629 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/uploads/meat_lovers.png HTTP/1.1[0m" 304 -
 2026-03-28 15:25:18,629 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2026 15:25:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+
